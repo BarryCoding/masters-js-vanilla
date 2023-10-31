@@ -1,0 +1,3 @@
+# Notes
+
+> learning progress
